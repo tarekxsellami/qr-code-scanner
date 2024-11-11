@@ -1,4 +1,4 @@
-<img width="709" alt="Screenshot 2024-11-06 at 21 54 33" src="https://github.com/user-attachments/assets/7cd26233-b2f9-4fa8-8abd-8122483a4705">
+<img width="100%" alt="Screenshot 2024-11-06 at 21 54 33" src="https://github.com/user-attachments/assets/7cd26233-b2f9-4fa8-8abd-8122483a4705">
 
 
 # QR Code Scanner App
